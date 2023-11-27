@@ -10,11 +10,16 @@ namespace HerançaTrabalho
     public class Comida : Produto
     {
         public string _fruta = "Banana";
-        public string _pizza = "Calabresa";
+        public string _pizza = "Pizza calabresa";
 
-        public int GetPrecoComida()
+        public int GetPrecoPizza()
         {
-            return _precoComida;
+            return _precoPizza;
+        }
+        public int GetPrecoFruta()
+        {
+            return _precoFruta;
         }
     }
 }
+

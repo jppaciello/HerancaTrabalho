@@ -8,8 +8,10 @@ namespace HerançaTrabalho
 {
     public class Produto
     {
-        protected int _precoRoupa = 20;
-        protected int _precoComida = 10;
+        protected int _precoRoupa = 30;
+        protected int _precoPizza = 20;
+        protected int _precoFruta = 5;
     }
    
 }
+
