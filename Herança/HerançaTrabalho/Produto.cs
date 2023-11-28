@@ -8,9 +8,9 @@ namespace HerançaTrabalho
 {
     public class Produto
     {
-        protected int _precoRoupa = 30;
-        protected int _precoPizza = 20;
-        protected int _precoFruta = 5;
+        public int _precoRoupa = 30;
+        public int _precoPizza = 20;
+        public int _precoFruta = 5;
     }
    
 }

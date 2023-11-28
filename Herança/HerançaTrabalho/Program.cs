@@ -15,4 +15,4 @@ Console.WriteLine($"O preço da {NomeComida} é {PrecoPizza} reais");
 Comida comida2 = new Comida();
 var PrecoFruta = comida2.GetPrecoFruta();
 var NomeFruta = comida2._fruta;
-Console.WriteLine($"O preço da {NomeFruta} é {PrecoFruta}");
+Console.WriteLine($"O preço da {NomeFruta} é {PrecoFruta} reais");
