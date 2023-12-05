@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\bin\Debug\net7.0\HenrençaTrabalho2.exe
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\bin\Debug\net7.0\HenrençaTrabalho2.deps.json
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\bin\Debug\net7.0\HenrençaTrabalho2.runtimeconfig.json
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\bin\Debug\net7.0\HenrençaTrabalho2.dll
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\bin\Debug\net7.0\HenrençaTrabalho2.pdb
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.AssemblyInfo.cs
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.dll
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\refint\HenrençaTrabalho2.dll
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.pdb
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\HenrençaTrabalho2.genruntimeconfig.cache
+C:\Users\joaop\source\repos\Henrença2\HenrençaTrabalho2\obj\Debug\net7.0\ref\HenrençaTrabalho2.dll
